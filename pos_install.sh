@@ -31,6 +31,8 @@ URLS_WGET=(
   "http://tinycorelinux.net/10.x/x86/release/Core-10.1.iso"
 
   "https://github.com/electron/fiddle/releases/download/v0.12.0/electron-fiddle_0.12.0_amd64.deb"
+# Download Sublimetext3
+"https://download.sublimetext.com/sublime_text_3_build_3211_x64.tar.bz2"
 )
 
 #instalar com pip
@@ -296,8 +298,7 @@ done
 gdown 'https://drive.google.com/uc?export=download&id=1EFo7Ye_rl7bGNr4iehXIgFg4gn2IcWDX'
 # Download Sunvox
 gdown "https://www.warmplace.ru/soft/sunvox/sunvox-1.9.5d.zip"
-# Download Sublimetext3
-gdown "https://download.sublimetext.com/sublimehq-pub.gpg"
+
 # Download Godot Engine
 gdown "https://downloads.tuxfamily.org/godotengine/3.0.1/Godot_v3.0.1-stable_x11.64.zip"
 
